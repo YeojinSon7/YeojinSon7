@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome My Github%20render&fontSize=60)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20My%20Github&fontSize=45" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer" />
 <!--
 **YeojinSon7/YeojinSon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
