@@ -1,4 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20My%20Github&fontSize=45" />
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeojinSon7&count_bg=%23D9CE88&title_bg=%23E2A6AB&icon=&icon_color=%23776A6A&title=Github&edge_flat=false"/></a>
+</div>
+[![YeojinSon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeojinSon7)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=footer" />
 <!--
