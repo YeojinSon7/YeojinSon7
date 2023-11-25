@@ -6,6 +6,7 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeojinSon7&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/YeojinSon7)
 
 [![YeojinSon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeojinSon7&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/YeojinSon7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeojinSon7)](https://github.com/YeojinSon7/github-readme-stats)
  
 <br>
 
