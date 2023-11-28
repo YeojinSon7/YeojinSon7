@@ -10,18 +10,14 @@
  
 <br>
 
-## 💻 DEV's log 💻
+## 💻 About Me 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://itismine777.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
     <a href="https://www.notion.so/83078b2f5f93468d802027d3f6bfd77f">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
-</div><br>
+</div><br> 
 
- 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="yeojinson777@gmail.com">
